@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to Holger's slide deck!"
 ---
 
 ## Holger Hellinger
